@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Andres Bermudez
+Main-Class: CalculadoraApp
+X-COMMENT: Calculadora App Escritorio
+
+
+
+
