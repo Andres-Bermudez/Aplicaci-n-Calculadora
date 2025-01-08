@@ -1,10 +1,12 @@
 # Calculadora
 
-![Imagen de Muestra](imagenMuestra.png)
+![Imagen de Muestra](images/inicio.png)
 
-- Calculadora con interfaz gráfica realizada en Java Swing. Tiene funciones como
-calculo de operaciones básicas y un menú con la información del desarrollador.
-<br>
+Calculadora desarrollada en Java con una interfaz gráfica
+realizada en Java Swing. Incluye funciones como el cálculo de
+operaciones básicas y un menú con la información del
+desarrollador. El objetivo del proyecto era clonar la
+calculadora presente en los sistemas operativos Linux.
     
 ## Objetivos del proyecto:
 1. Poner en practica los conocimientos adquiridos en los cursos sobre

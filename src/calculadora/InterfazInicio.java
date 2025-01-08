@@ -116,7 +116,7 @@ public class InterfazInicio extends JFrame implements ActionListener {
         
         borrar = new JButton("Borrar");
         borrar.setBounds(75, 150, 75, 60);
-        borrar.setFont(new Font("Times New Roman", 1, 13));
+        borrar.setFont(new Font("Times New Roman", 1, 11));
         borrar.addActionListener(this);
         add(borrar);
         
@@ -318,7 +318,7 @@ public class InterfazInicio extends JFrame implements ActionListener {
  
     public static void iniciar() {
         InterfazInicio interfazCalculadora = new InterfazInicio();
-        interfazCalculadora.setBounds(0, 0, 300, 470);
+        interfazCalculadora.setBounds(0, 0, 300, 510);
         interfazCalculadora.setResizable(false);
         interfazCalculadora.setLocationRelativeTo(null);
         interfazCalculadora.setVisible(true);
